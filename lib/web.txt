@@ -1,0 +1,37 @@
+* Tüm halı sahaları listelenmesi, tüm detaylarının görüntülenmesi
+* Tüm halı sahalar arasında arama yapma
+* Kullanıcılar arasında, halı saha sahipleri, rezervasyonlar (id ile), 
+* Rezervasyonu iptal etme / onaylama
+* Yeni halı saha kullanıcısının hesabını onaylama
+* Yeni halı saha ekleme, halı sahaları editleme, silme
+* Halı saha yorumları onay sürecinden geçirme / iptal etme
+
+* halı saha rezervasyonu işlem yaparken onay iste
+* hs rezervasyonları listelerken tarih title'ı olacak
+
+
+* hs detay > rezervasyonlar arama
+* 
+
+* halı saha düzenleme sayfası eklenecek
+* tüm ödemelerdeki komisyon oranı adminden değişecek
+* kulkanıcı ve halı sahanın bilgilerini düzenle
+* seçilen kullanıcının tüm rezervasyonlarını gör sayfası
+* tüm halı sahaları ve kullanıcıları ve hs users listelerken şehre göre filtreleme
+* halı sahanın rezervasyonları arasında tarihe göre filtreleme, tarihe göre sıralama
+* yorum istekleri sayfası yenile vs butonları, veri yok text'id
+
+
+ANA SAYFA
+toplam halı saha sayısı,
+toplam kullanıcı sayısı,
+bu ayın cirosu
+bu ay kaç rezervasyon yapıldı
+bu ay kaç kullanıcı kayıt oldu
+
+
+
+----
+Rezervasyonlar arasından rezerv saati geçmiş olan rezervasyonlar tamamlandı status'unde olacak, rezervasyon iptal edilenler
+
+

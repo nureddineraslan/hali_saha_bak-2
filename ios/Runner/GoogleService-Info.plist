@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>427511184865-bm03gll3h0fpcssbr6fe7str8mlmeml0.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.427511184865-bm03gll3h0fpcssbr6fe7str8mlmeml0</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>427511184865-eh7qq6kiv01pojuj29s7e2uolfmdntgv.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCubIEWnBYzlq0siJVY7OXPKURAy6Q1A08</string>
+	<key>GCM_SENDER_ID</key>
+	<string>427511184865</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.falcon.halisahabak</string>
+	<key>PROJECT_ID</key>
+	<string>hali-saha-bak</string>
+	<key>STORAGE_BUCKET</key>
+	<string>hali-saha-bak.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:427511184865:ios:6246b738f1cafb7f39e6a0</string>
+</dict>
+</plist>

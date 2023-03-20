@@ -1,0 +1,2 @@
+flutter: smsData: {date: 2022-09-04T13:00:00.000Z, message: Sporium23 Halısaha adlı halı saha rezervasyonunuz yaklaştı., phoneNumber: +905438755396}
+flutter: reservationData: {date: 2022-09-04T13:00:00.000Z, reservationId: 538938, haliSahaId: 928610804378, paymentTransactionId: 2178487139}

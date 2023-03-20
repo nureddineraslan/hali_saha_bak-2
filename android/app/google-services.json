@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "427511184865",
+    "project_id": "hali-saha-bak",
+    "storage_bucket": "hali-saha-bak.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:427511184865:android:3bc61c3fbea8783b39e6a0",
+        "android_client_info": {
+          "package_name": "com.falcon.halisahabak"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "427511184865-eh7qq6kiv01pojuj29s7e2uolfmdntgv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.falcon.halisahabak",
+            "certificate_hash": "8ef846e6bb3bb0abd660c46d6655a0d3cc7417fb"
+          }
+        },
+        {
+          "client_id": "427511184865-tfef20npg0h5fme5hp1oq9asmd31t81t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB7rSQXa5_rp38wJPKoa7SnfpY6ImSsJz4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "427511184865-tfef20npg0h5fme5hp1oq9asmd31t81t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
